@@ -1,1 +1,2 @@
-this is commom file
+this is commom file which modified
+this file was modified when it was opened twice
